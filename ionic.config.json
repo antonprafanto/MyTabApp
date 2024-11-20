@@ -1,0 +1,7 @@
+{
+  "name": "MyTabApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
